@@ -23,6 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # GraveyardWebsiteInVue
-# GraveyardWebsiteInVue
-# GraveyardWebsiteInVue
-# GraveyardWebsiteInVue
+When you first clone this project, create a dist folder, and in it, clone https://github.com/GullifordGraveyard/GullifordGraveyard.github.io
