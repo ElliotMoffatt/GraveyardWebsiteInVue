@@ -12,13 +12,13 @@
             <h4>Download links</h4>
         </div>
         <div class="row">
-            <a href="GullifordGraveyard.github.io/Volunteer hours form.pdf" download>
+            <a href="https://GullifordGraveyard.github.io/Volunteer hours form.pdf"  target="_blank" ref="noreferrer noopener" download>
                 pdf (for printing off and
                 entering by hand)
             </a>
         </div>
         <div class="row">
-            <a href="GullifordGraveyard.github.io/Volunteer hours form.docx" download>
+            <a href="https://GullifordGraveyard.github.io/Volunteer hours form.docx"  target="_blank" ref="noreferrer noopener" download>
                 docx (for filling in
                 digitally)
             </a>

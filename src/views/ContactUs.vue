@@ -29,7 +29,7 @@
                     <h4>Membership form</h4>
                 </div>
                 <div class="row">
-                    <a href="GullifordGraveyard.github.io/Membership form V2.pdf" download>Download here</a>
+                    <a href="https://GullifordGraveyard.github.io/Membership form V2.pdf" target="_blank" ref="noreferrer noopener" download>Download here</a>
                 </div>
             </div>
             <div class="col">

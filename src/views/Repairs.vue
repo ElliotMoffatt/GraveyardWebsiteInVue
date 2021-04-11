@@ -13,7 +13,7 @@
 
 
         <div style="text-align:center">
-            <a style="font-weight:bold; font-size:150%" href="https://forms.gle/mrxgtVSkLzQpaZk37">
+            <a style="font-weight:bold; font-size:150%" href="https://forms.gle/mrxgtVSkLzQpaZk37" target="_blank" ref="noreferrer noopener">
                 If you've recently visited the Burial Ground please spare 2 minutes to fill out this questionnaire
             </a>
         </div>
