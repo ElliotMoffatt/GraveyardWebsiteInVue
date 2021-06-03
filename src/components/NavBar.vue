@@ -1,56 +1,71 @@
 <template>
-    <nav id="nav" class="navbar navbar-default nav-pills mb-3">
+    <nav id="nav" class="navbar navbar-expand-lg navbar-light bg-light mb-3" style="z-index:1000">
         <div class="container p-0">
-            <router-link to="/about">{{'About the\ngroup'}}</router-link>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav  mr-auto">
+                    <li class="nav-item">
+                        <router-link to="/about">About the group</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <router-link to="/Repairs">Repairs and HLF</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <router-link to="/Volunteer">Volunteer form</router-link>
+                    </li>
+                    <li class="nav-item">
+                        <router-link to="/ContactUs">Contact us</router-link>
+                    </li>
 
-            <router-link to="/Repairs">{{'Repairs\nand HLF'}}</router-link>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="historyNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            History
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="historyNavbarDropdownMenuLink">
+                            <router-link to="/History">History of the Burial Ground</router-link>
+                            <br />
+                            <router-link to="/Headstones">Names on Headstones</router-link>
+                            <br />
+                            <router-link to="/HistoriesOfBuried">Histories of those buried here</router-link>
+                        </div>
+                    </li>
 
-            <router-link to="/Volunteer">Volunteer form</router-link>
-
-            <router-link to="/Photos">Photos</router-link>
-
-            <router-link to="/History">History</router-link>
-
-            <router-link to="/Headstones">{{'Names on\nHeadstones'}}</router-link>
-
-            <router-link to="/HistoriesOfBuried">{{'Histories of those\nburied here'}}</router-link>
-
-            <router-link to="/Events">Events</router-link>
-
-            <router-link to="/ContactUs">Contact us</router-link>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="mediaNavbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Media
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="mediaNavbarDropdownMenuLink">
+                            <router-link to="/Photos">Photos</router-link>
+                            <br />
+                            <router-link to="/Videos">Videos</router-link>
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
-
-
+        
     </nav>
 </template>
 
 <style scoped>
     #nav {
-        padding: 5px;
-        justify-content: center;
         background-color: rgba(200,200,200,0.25);
         position: sticky;
     }
 
-    #nav > div{
-        justify-content:start;
+    #nav a {
+        color: #232221;
+        text-decoration: none;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
     }
-
-        #nav a {
-            font-weight: bolder;
-            color: #232221;
-            text-decoration: none;
-            float: left;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 14px 16px;
-            transition: 0.3s;
-            font-size: 17px;
-            overflow: hidden;
-            height: 5em;
-            white-space: pre-wrap
-        }
 
             #nav a::before {
                 border-left: 2px solid gray;
@@ -63,4 +78,10 @@
             #nav a:hover {
                 color: #42b983;
             }
+
+    @media(max-width: 991px){
+        .navbar-nav .dropdown-menu{
+            float: left;
+        }
+    }
 </style>
