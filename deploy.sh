@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-
+{
 # abort on errors
 set -e
 
@@ -23,3 +23,7 @@ git commit -m 'deploy'
 git push -f git@github.com:ElliotMoffatt/GraveyardWebsiteInVue.git main:gh-pages
 
 cd -
+
+} || {
+read -rn1
+}
