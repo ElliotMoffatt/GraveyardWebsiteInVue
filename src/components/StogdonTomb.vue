@@ -1,0 +1,12 @@
+<template>
+    <div style="height:auto;overflow:auto" class="my-3">
+        <h3> Stogdon tomb grade II listed <small>(19)</small></h3>
+        Betty Stogdon was born at Higher Nutwell House (Toby's Carvery) on 27th Dec 1761 to parents John & Dorothy (nee Horwill), when Dorothy die John remarried Julia Smith (of the Queen Anne House, Lympstone family). Betty never married. Betty died at Nutwell in the same house as she was born, on 25th Oct 1846 aged 85. She left a will, leaving money & clothing to her servants plus money to her family's children.
+        <br /><br />
+        Abraham Stogdon was the brother of Betty, also born at Nutwell on the 17th Nov 1769. Abraham went into the land/ estate / renting agent business. In 1823 Abraham is handling the renting of Mount Ebford House for Major Lee and in the electoral rolls of Lympstone in 1832 & 1837 Abraham is listed both years. Abraham married Ann Read and they had six children. The family moved around, living at Sowden Villa, Lympstone, Prospect Place, Sidmouth & Rose Cottage, Meadow Street, Exmouth. Abraham died at Exmouth on the 5th Nov 1855.
+        <br /><br />
+        Mary Kilner was the daughter of Abraham & Ann Stogdon, born Feb 17th 1804. Mary of Sowden Villa, Lympstone married Joseph Kilner in April 1835 at Withycomb Rawleigh, Exmouth. Joseph, a gentleman was a freemason at Stonehouse, a wine merchant with a string of properties. In 1836, Mary is at Plymouth for the birth of their son. Mary was widowed when Joseph died aged 33, leaving Mary to look after their 3 children. In the 1851 census Mary is supporting herself as a "landed property" living with an elderly Aunt Jane Stogdon & servant. On the 1861 & 1871 census Mary is living at 11 Richmond Terrace, Exeter. Mary died 8th May 1879 at Elm Grove Road, Exeter and was buried on the 13th, aged 75. Mary left a will of under &pound;450 with son Francis George Kilner of Topsham the sole executor.
+        <br /><br />
+        The fourth plaque of the pedestal plinth is missing, this memorial suffered largely during the 20th century to vandalism, whether this was to Ann or Joseph we will never find out. Ann died in 1859 at Cliff House, home to the Gifford family to whom they were great friends.
+    </div>
+</template>

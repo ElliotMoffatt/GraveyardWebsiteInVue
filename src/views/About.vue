@@ -2,6 +2,17 @@
     <div id="about">
         <div class="row">
             <div class="col">
+                <div class="alert alert-light alert-dismissible fade show container border" role="alert">
+                    <h5 class="card-title">Gulliford welcomes visitors </h5>
+                    The site is open at all times. Parking is in the lane adjacent to the site.
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
                 <h2>About the group:</h2>
             </div>
         </div>
@@ -32,15 +43,12 @@
                 <figure>
                     <img :src="friendsUrl" class="center-fit"
                          style="float:right;margin: 0px 0px 10px 10px;max-width:90%">
-                    <figcaption class="center-fit" style="float:right;margin: 0px 0px 10px 10px;width:90%">
-                        Photo courtesy of  Richard Crisp
-                    </figcaption>
                 </figure>
             </div>
         </div>
 
         <div class="row" style="margin: 5px 5px 5px 5px">
-           
+
             <h3>Would you like to support us and get involved?</h3>
             <ul>
                 <li>Join as a member for just a one-off payment of &#163;5</li>
@@ -61,7 +69,7 @@
     export default {
         computed: {
             friendsUrl() {
-                return require("@/assets/images/friends.jpg");
+                return require("@/assets/images/gallery/daffsandtomb.jpg");
             }
         }
     }

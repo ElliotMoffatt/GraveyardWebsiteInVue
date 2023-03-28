@@ -115,53 +115,40 @@
         computed: {
             column1() {
                 return [
-                    require("@/assets/images/gallery/1.jpg"),
-                    require("@/assets/images/gallery/2.jpg"),
-                    require("@/assets/images/gallery/3.jpg"),
-                    require("@/assets/images/gallery/4.jpg"),
-                    require("@/assets/images/gallery/5.jpg"),
-                    require("@/assets/images/gallery/6.jpg"),
-                    require("@/assets/images/gallery/7.jpg"),
-                    require("@/assets/images/gallery/8.jpg"),
-                    require("@/assets/images/gallery/9.jpg"),
-                    require("@/assets/images/gallery/10.jpg"),
-                    require("@/assets/images/gallery/11.jpg"),
+                    require("@/assets/images/gallery/art.jpg"),
+                    require("@/assets/images/gallery/bandw1.jpg"),
+                    require("@/assets/images/gallery/bandw2.jpg"),
+                    require("@/assets/images/gallery/c1.jpg"),
+                    require("@/assets/images/gallery/daffodils.jpg"),
                 ];
             },
             column2() {
                 return [
-                    require("@/assets/images/gallery/12.jpg"),
-                    require("@/assets/images/gallery/13.jpg"),
-                    require("@/assets/images/gallery/14.jpg"),
-                    require("@/assets/images/gallery/15.jpg"),
-                    require("@/assets/images/gallery/16.jpg"),
+
+                    require("@/assets/images/gallery/daffsandtomb.jpg"),
+                    require("@/assets/images/gallery/dirt.jpg"),
+                    require("@/assets/images/gallery/entrance.jpg"),
+                    require("@/assets/images/gallery/entrance2.jpg"),
+                    require("@/assets/images/gallery/sign.jpg"),
+                    require("@/assets/images/gallery/tree.jpg")
                 ];
             },
             column3() {
                 return [
-                    require("@/assets/images/gallery/17.jpg"),
-                    require("@/assets/images/gallery/18.jpg"),
-                    require("@/assets/images/gallery/19.jpg"),
-                    require("@/assets/images/gallery/20.jpg"),
-                    require("@/assets/images/gallery/22.jpg"),
-                    require("@/assets/images/gallery/23.jpg"),
+
+                    require("@/assets/images/gallery/entrance3.jpg"),
+                    require("@/assets/images/gallery/gathering.jpg"),
+                    require("@/assets/images/gallery/gravestones.jpg"),
+                    require("@/assets/images/gallery/johnenglandgravestone.jpg"),
+                    require("@/assets/images/gallery/music.jpg"),
                 ];
             },
             column4() {
                 return [
-                    require("@/assets/images/gallery/24.jpg"),
-                    require("@/assets/images/gallery/25.jpg"),
-                    require("@/assets/images/gallery/26.jpg"),
-                    require("@/assets/images/gallery/27.jpg"),
-                    require("@/assets/images/gallery/28.jpg"),
-                    require("@/assets/images/gallery/29.jpg"),
-                    require("@/assets/images/gallery/30.jpg"),
-                    require("@/assets/images/gallery/31.jpg"),
-                    require("@/assets/images/gallery/32.jpg"),
-                    require("@/assets/images/gallery/33.jpg"),
-                    require("@/assets/images/gallery/34.jpg"),
-                    require("@/assets/images/gallery/35.jpg"),
-                    require("@/assets/images/gallery/36.jpg"),
+                    require("@/assets/images/gallery/pathway.jpg"),
+                    require("@/assets/images/gallery/pottedflowers.jpg"),
+                    require("@/assets/images/gallery/rocks.jpg"),
+                    require("@/assets/images/gallery/scissorman.jpg"),
                 ];
             },
         }

@@ -2,7 +2,6 @@
 
     <HeroSection></HeroSection>
     <NavBar></NavBar>
-    <Alert></Alert>
     
     <div class="container">
         <router-view />
@@ -24,12 +23,10 @@
 <script>
     import HeroSection from './components/HeroSection.vue'
     import NavBar from './components/NavBar.vue'
-    import Alert from './components/Alert.vue'
     export default {
         components: {
             HeroSection,
-            NavBar,
-            Alert
+            NavBar
         }
     }
 </script>

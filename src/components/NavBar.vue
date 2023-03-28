@@ -13,7 +13,7 @@
                         <router-link to="/Repairs">Repairs and HLF</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/Volunteer">Volunteer form</router-link>
+                        <router-link to="/Volunteer">Volunteering</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link to="/ContactUs">Contact us</router-link>
@@ -25,8 +25,6 @@
                         </a>
                         <div class="dropdown-menu" aria-labelledby="historyNavbarDropdownMenuLink">
                             <router-link to="/History">History of the Burial Ground</router-link>
-                            <br />
-                            <router-link to="/Headstones">Names on Headstones</router-link>
                             <br />
                             <router-link to="/HistoriesOfBuried">Histories of those buried here</router-link>
                         </div>
@@ -40,7 +38,14 @@
                             <router-link to="/Photos">Photos</router-link>
                             <br />
                             <router-link to="/Videos">Videos</router-link>
+                            <br />
+                            <router-link to="/Book">Book</router-link>
+                            <br />
+                            <router-link to="/Quiz">Quiz</router-link>
                         </div>
+                    </li>
+                    <li class="nav-item">
+                        <router-link to="/Events">Events</router-link>
                     </li>
                 </ul>
             </div>

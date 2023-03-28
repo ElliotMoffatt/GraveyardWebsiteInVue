@@ -1,0 +1,14 @@
+<template>
+    <div style="height:auto;overflow:auto" class="my-3">
+        <h3> Charles Gifford & Harriet Gifford <small>(23)</small></h3>
+        Charles Gifford was baptised in Exeter in 1776 to parents John & Dorothy of Parker's Well House, St Leonards, Exeter. Charles came from a well to do family, his younger brother was to become Lord Gifford, Master of the Rolls. Charles worked in the family grocery business with his father & brother in the High street, Exeter. In 1819 Charles married Mary Moresby and they settled down & had 6 children. 4 of their children were baptised at Gulliford between 1823 & 1837 and in this 14 year period these were the only baptisms conducted at Gulliford. John Bird, who studied Gulliford in 1979, wrote that this implied a great drop in the numbers of young adults attending the meeting house & that maybe down to the high prices charged by Gulliford for the baptism service.
+        <br /><br />
+        Charles & Mary lived in Exmouth at Cliff End House, which many of you will know today as The Park Hotel along Exeter Road. It was called Cliff End House because prior to the land reclaiming, the house was on the shore line, over- looking the sea. It was converted into a pub in the early 20th century.
+        <br /><br />
+        Charles's name is on the Tithe Map of 1839 in Lympstone as owning property, so the family appears to be very comfortably off, Charles & Mary's son Charles jr after studying law moved to Canada & became a MP there.
+        <br /><br />
+        In the 1851 census, our Charles is recorded as the Deputy Lieut of Devon, still married to Mary, children all left home, however there are 5 servants to look after just the 2 of them.        The fourth plaque of the pedestal plinth is missing, this memorial suffered largely during the 20th century to vandalism, whether this was to Ann or Joseph we will never find out. Ann died in 1859 at Cliff House, home to the Gifford family to whom they were great friends.
+        <br /><br />
+        Charles died in 1855, aged 75 years old and the Rev of the time recorded that Charles was an irregular attendant at Gulliford, which seems a bit unfair as Charles served for many years as a trustee for Gulliford. Alongside Charles is buried his sister Harriet. Harriet had continued to live at Parker's Well House and remained unmarried, died 9 years after Charles, leaving &pound;50,000 in her will in 1864, a huge amount of money then. Harriet would have been buried at Gulliford because the graveyard of the Exeter Dissenters had closed. They are interred near the Baring's vault, which would originally had railings around the base. Parker's Well House was roughly located behind the now County Hall, along the Topsham Road, the house having been completely destroyed by a WWII high explosive bomb. The site is now part of a school, with just the arch of a well showing in the wall butting the road.
+    </div>
+</template>

@@ -1,27 +1,34 @@
 <template>
     <div id="volunteer" class="tabcontent">
         <div class="row">
-            <h2>Volunteer form</h2>            
+            <div class="col">
+                <h2>Join our small band of volunteers</h2>
+            </div>
         </div>
         <div class="row">
-            Please could anyone volunteering for any of the projects included in our HLF project download and fill
-            in the hours you spend on the project rounded to the nearest 15 minutes. Once completed, please send to
-            <a href="mailto:janepmoffatt@gmail.com?Subject=FOGBG%20volunteer%20form">janepmoffatt@gmail.com</a>
+            <div class="col">
+                <b>
+                    Can you give us a few hours of your time occasionally? Would you like to take an active part in
+                    preserving and promoting this important pocket of local and national history?
+                </b>
+            </div>
         </div>
-        <div class="row mt-3">
-            <h4>Download links</h4>
+        <div class="row mt-4">
+            <div class="col">
+                <p>
+                    Well we are always looking out for helpers to get involved in :
+                    <ul>
+                        <li>Gardening, planting and weeding</li>
+                        <li>Encouraging wildlife habitats</li>
+                        <li>Helping out on open days in various capacities</li>
+                        <li>Joining our committee</li>
+                    </ul>
+                </p>
+                <p>
+                    If you are interested in finding out more, please email Angela Coles at <a href="mailto:lympiron11@hotmail.co.uk?Subject=Friends%20of%20Gulliford%20Burial%20Ground">lympiron11@hotmail.co.uk</a>
+                </p>
+            </div>
         </div>
-        <div class="row">
-            <a href="https://GullifordGraveyard.github.io/Volunteer hours form.pdf"  target="_blank" ref="noreferrer noopener" download>
-                pdf (for printing off and
-                entering by hand)
-            </a>
-        </div>
-        <div class="row">
-            <a href="https://GullifordGraveyard.github.io/Volunteer hours form.docx"  target="_blank" ref="noreferrer noopener" download>
-                docx (for filling in
-                digitally)
-            </a>
-        </div>
+
     </div>
 </template>

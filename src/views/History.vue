@@ -12,7 +12,7 @@
                 Lympstone.<br><br> A Presbyterian and later Unitarian site going back to the 17th century to a time of
                 religious
                 upheaval and risk of imprisonment to those not toeing the religious line. The first chapel was built in
-                1687,
+                1689,
                 the band of dissenters grow made up by the new middle classes to humbler locals from Lympstone,
                 Woodbury,
                 Ebford, Exmouth & the surrounding areas, often with a dozen carriages parked outside, not an easy
