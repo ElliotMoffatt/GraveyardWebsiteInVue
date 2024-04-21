@@ -66,10 +66,11 @@
 </template>
 
 <script>
+    import daffsandtomb from "@/assets/images/gallery/daffsandtomb.jpg";
     export default {
         computed: {
             friendsUrl() {
-                return "src/assets/images/gallery/daffsandtomb.jpg";
+                return daffsandtomb;
             }
         }
     }

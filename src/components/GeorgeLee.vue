@@ -31,6 +31,8 @@
 </style>
 
 <script>
+    import George_Lee_Headstone from "@/assets/images/George_Lee_Headstone.jpg";
+
     export default {
         data() {
             return {
@@ -39,7 +41,7 @@
         },
         computed: {
             headstoneUrl() {
-                return "src/assets/images/George_Lee_Headstone.jpg";
+                return George_Lee_Headstone;
             }
         }
     }

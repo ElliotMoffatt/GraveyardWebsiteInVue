@@ -18,10 +18,12 @@
 </template>
 
 <script>
+    import heritagefundlogo from "@/assets/images/heritagefundlogo.png";
+
     export default {
         computed: {
             hlfLogo() {
-                return "src/assets/images/heritagefundlogo.png";
+                return heritagefundlogo;
             }
         }
     }

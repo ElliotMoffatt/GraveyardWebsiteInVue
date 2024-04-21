@@ -154,6 +154,9 @@
 </style>
 
 <script>
+    import Brice_Wakeford_Lee from "@/assets/images/Brice_Wakeford_Lee.jpg";
+    import Ebford_Barton from "@/assets/images/Ebford_Barton.jpg";
+
     export default {
         data() {
             return {
@@ -162,10 +165,10 @@
         },
         computed: {
             briceUrl() {
-                return "src/assets/images/Brice_Wakeford_Lee.jpg";
+                return Brice_Wakeford_Lee;
             },
             houseUrl() {
-                return "src/assets/images/Ebford_Barton.jpg";
+                return Ebford_Barton;
             },
         }
     }

@@ -39,6 +39,8 @@
 </style>
 
 <script>
+    import bookCover from "@/assets/images/bookCover.jpg";
+
     export default {
         data() {
             return {
@@ -47,7 +49,7 @@
         },
         computed: {
             bookCover() {
-                return "src/assets/images/bookCover.jpg";
+                return bookCover;
             },
         }
     }

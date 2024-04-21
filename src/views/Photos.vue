@@ -111,44 +111,66 @@
 </style>
 
 <script>
+    import art from "@/assets/images/gallery/art.jpg";
+    import bandw1 from "@/assets/images/gallery/bandw1.jpg";
+    import bandw2 from "@/assets/images/gallery/bandw2.jpg";
+    import c1 from "@/assets/images/gallery/c1.jpg";
+    import daffodils from "@/assets/images/gallery/daffodils.jpg";
+
+    import daffsandtomb from "@/assets/images/gallery/daffsandtomb.jpg";
+    import dirt from "@/assets/images/gallery/dirt.jpg";
+    import entrance from "@/assets/images/gallery/entrance.jpg";
+    import entrance2 from "@/assets/images/gallery/entrance2.jpg";
+    import sign from "@/assets/images/gallery/sign.jpg";
+    import tree from "@/assets/images/gallery/tree.jpg";
+
+    import entrance3 from "@/assets/images/gallery/entrance3.jpg";
+    import gathering from "@/assets/images/gallery/gathering.jpg";
+    import gravestones from "@/assets/images/gallery/gravestones.jpg";
+    import johnenglandgravestone from "@/assets/images/gallery/johnenglandgravestone.jpg";
+    import music from "@/assets/images/gallery/music.jpg";
+
+    import pathway from "@/assets/images/gallery/pathway.jpg";
+    import pottedflowers from "@/assets/images/gallery/pottedflowers.jpg";
+    import rocks from "@/assets/images/gallery/rocks.jpg";
+    import scissorman from "@/assets/images/gallery/scissorman.jpg";
+
     export default {
         computed: {
             column1() {
                 return [
-                    "src/assets/images/gallery/art.jpg",
-                    "src/assets/images/gallery/bandw1.jpg",
-                    "src/assets/images/gallery/bandw2.jpg",
-                    "src/assets/images/gallery/c1.jpg",
-                    "src/assets/images/gallery/daffodils.jpg",
+                    art,
+                    bandw1,
+                    bandw2,
+                    c1,
+                    daffodils,
                 ];
             },
             column2() {
                 return [
-
-                    "src/assets/images/gallery/daffsandtomb.jpg",
-                    "src/assets/images/gallery/dirt.jpg",
-                    "src/assets/images/gallery/entrance.jpg",
-                    "src/assets/images/gallery/entrance2.jpg",
-                    "src/assets/images/gallery/sign.jpg",
-                    "src/assets/images/gallery/tree.jpg"
+                    daffsandtomb,
+                    dirt,
+                    entrance,
+                    entrance2,
+                    sign,
+                    tree
                 ];
             },
             column3() {
                 return [
-
-                    "src/assets/images/gallery/entrance3.jpg",
-                    "src/assets/images/gallery/gathering.jpg",
-                    "src/assets/images/gallery/gravestones.jpg",
-                    "src/assets/images/gallery/johnenglandgravestone.jpg",
-                    "src/assets/images/gallery/music.jpg",
+                    entrance3,
+                    gathering,
+                    gravestones,
+                    johnenglandgravestone,
+                    music,
                 ];
             },
             column4() {
                 return [
-                    "src/assets/images/gallery/pathway.jpg",
-                    "src/assets/images/gallery/pottedflowers.jpg",
-                    "src/assets/images/gallery/rocks.jpg",
-                    "src/assets/images/gallery/scissorman.jpg",
+                    pathway,
+                    pottedflowers,
+                    rocks,
+                    scissorman,
                 ];
             },
         }

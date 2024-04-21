@@ -86,13 +86,16 @@
 </template>
 
 <script>
+    import tomb from "@/assets/images/gallery/10.jpg";
+    import gates from "@/assets/images/gallery/35.jpg";
+
     export default {
         computed: {
             tombUrl() {
-                return "src/assets/images/gallery/10.jpg";
+                return tomb;
             },
             gatesUrl() {
-                return "src/assets/images/gallery/35.jpg";
+                return gates;
             }
         }
     }

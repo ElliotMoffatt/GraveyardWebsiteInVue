@@ -50,6 +50,8 @@
 </style>
 
 <script>
+    import george_manson from "@/assets/images/george_manson.jpg";
+
     export default {
         data() {
             return {
@@ -58,7 +60,7 @@
         },
         computed: {
             headshotUrl() {
-                return "src/assets/images/george_manson.jpg";
+                return george_manson;
             }
         }
     }

@@ -213,10 +213,11 @@
 
 </style>
 <script>
+    import Grave_plan from "@/assets/images/Grave_plan.png";
     export default {
         computed: {
             gravePlan() {
-                return "src/assets/images/Grave_plan.png";
+                return Grave_plan;
             }
         }
     }

@@ -34,10 +34,12 @@
 </style>
 
 <script>
+    import banner from "@/assets/images/banner.jpg";
+
     export default {
         data() {
             return {
-                bannerUrl: 'src/assets/images/banner.jpg'
+                bannerUrl: banner
             }
         },
         computed: {

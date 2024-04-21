@@ -295,6 +295,8 @@
     import Russells from '../components/Russells.vue'
     import HodderChildren from '../components/HodderChildren.vue'
 
+    import Grave_plan from "@/assets/images/Grave_plan.png";
+
     export default {
         components: {
             TaylorFamily,
@@ -311,7 +313,7 @@
         },
         computed: {
             gravePlan() {
-                return "src/assets/images/Grave_plan.png";
+                return Grave_plan;
             }
         }
     }

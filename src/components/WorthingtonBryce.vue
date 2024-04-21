@@ -65,6 +65,7 @@
 </style>
 
 <script>
+    import worthington_bryce_tomb from "@/assets/images/worthington_bryce_tomb.jpg";
     export default {
         data() {
             return {
@@ -73,7 +74,7 @@
         },
         computed: {
             tombUrl() {
-                return "src/assets/images/worthington_bryce_tomb.jpg";
+                return worthington_bryce_tomb;
             }
         }
     }
