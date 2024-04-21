@@ -29,6 +29,52 @@
                 </p>
             </div>
         </div>
+        <div class="row">
+            <div class="col">
+                <h2>Donations</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                Our wonderful team of volunteers regularly throughout the year give time to keep the burial ground neat and tidy, plant species which will attract insects and battle the weeds which grow constantly. However, we often need funds to buy plants, bulbs, gravel for paths, wood - preserver for information signs etc. If you would like to support the work we do and would like to give a donation, it will be very much appreciated. Our bank details are as follows:
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col col-2">
+                <b>
+                    Account name:
+                </b>
+            </div>
+            <div class="col">
+                <b>
+                    Friends of Gulliford Burial Ground
+                </b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-2">
+                <b>
+                    Account number:
+                </b>
+            </div>
+            <div class="col">
+                <b>
+                    57749612
+                </b>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col col-2">
+                <b>
+                    Sort code:
+                </b>
+            </div>
+            <div class="col">
+                <b>
+                    60-08-09
+                </b>
+            </div>
+        </div>
 
     </div>
 </template>

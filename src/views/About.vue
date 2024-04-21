@@ -69,7 +69,7 @@
     export default {
         computed: {
             friendsUrl() {
-                return require("@/assets/images/gallery/daffsandtomb.jpg");
+                return "src/assets/images/gallery/daffsandtomb.jpg";
             }
         }
     }

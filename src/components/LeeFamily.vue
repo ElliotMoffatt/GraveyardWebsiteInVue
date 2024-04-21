@@ -162,10 +162,10 @@
         },
         computed: {
             briceUrl() {
-                return require("@/assets/images/Brice_Wakeford_Lee.jpg");
+                return "src/assets/images/Brice_Wakeford_Lee.jpg";
             },
             houseUrl() {
-                return require("@/assets/images/Ebford_Barton.jpg");
+                return "src/assets/images/Ebford_Barton.jpg";
             },
         }
     }

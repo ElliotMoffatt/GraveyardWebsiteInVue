@@ -89,10 +89,10 @@
     export default {
         computed: {
             tombUrl() {
-                return require("@/assets/images/gallery/10.jpg");
+                return "src/assets/images/gallery/10.jpg";
             },
             gatesUrl() {
-                return require("@/assets/images/gallery/35.jpg");
+                return "src/assets/images/gallery/35.jpg";
             }
         }
     }

@@ -58,7 +58,7 @@
         },
         computed: {
             headshotUrl() {
-                return require("@/assets/images/george_manson.jpg");
+                return "src/assets/images/george_manson.jpg";
             }
         }
     }

@@ -115,40 +115,40 @@
         computed: {
             column1() {
                 return [
-                    require("@/assets/images/gallery/art.jpg"),
-                    require("@/assets/images/gallery/bandw1.jpg"),
-                    require("@/assets/images/gallery/bandw2.jpg"),
-                    require("@/assets/images/gallery/c1.jpg"),
-                    require("@/assets/images/gallery/daffodils.jpg"),
+                    "src/assets/images/gallery/art.jpg",
+                    "src/assets/images/gallery/bandw1.jpg",
+                    "src/assets/images/gallery/bandw2.jpg",
+                    "src/assets/images/gallery/c1.jpg",
+                    "src/assets/images/gallery/daffodils.jpg",
                 ];
             },
             column2() {
                 return [
 
-                    require("@/assets/images/gallery/daffsandtomb.jpg"),
-                    require("@/assets/images/gallery/dirt.jpg"),
-                    require("@/assets/images/gallery/entrance.jpg"),
-                    require("@/assets/images/gallery/entrance2.jpg"),
-                    require("@/assets/images/gallery/sign.jpg"),
-                    require("@/assets/images/gallery/tree.jpg")
+                    "src/assets/images/gallery/daffsandtomb.jpg",
+                    "src/assets/images/gallery/dirt.jpg",
+                    "src/assets/images/gallery/entrance.jpg",
+                    "src/assets/images/gallery/entrance2.jpg",
+                    "src/assets/images/gallery/sign.jpg",
+                    "src/assets/images/gallery/tree.jpg"
                 ];
             },
             column3() {
                 return [
 
-                    require("@/assets/images/gallery/entrance3.jpg"),
-                    require("@/assets/images/gallery/gathering.jpg"),
-                    require("@/assets/images/gallery/gravestones.jpg"),
-                    require("@/assets/images/gallery/johnenglandgravestone.jpg"),
-                    require("@/assets/images/gallery/music.jpg"),
+                    "src/assets/images/gallery/entrance3.jpg",
+                    "src/assets/images/gallery/gathering.jpg",
+                    "src/assets/images/gallery/gravestones.jpg",
+                    "src/assets/images/gallery/johnenglandgravestone.jpg",
+                    "src/assets/images/gallery/music.jpg",
                 ];
             },
             column4() {
                 return [
-                    require("@/assets/images/gallery/pathway.jpg"),
-                    require("@/assets/images/gallery/pottedflowers.jpg"),
-                    require("@/assets/images/gallery/rocks.jpg"),
-                    require("@/assets/images/gallery/scissorman.jpg"),
+                    "src/assets/images/gallery/pathway.jpg",
+                    "src/assets/images/gallery/pottedflowers.jpg",
+                    "src/assets/images/gallery/rocks.jpg",
+                    "src/assets/images/gallery/scissorman.jpg",
                 ];
             },
         }

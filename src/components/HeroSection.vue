@@ -37,7 +37,7 @@
     export default {
         data() {
             return {
-                bannerUrl: require('@/assets/images/banner.jpg')
+                bannerUrl: 'src/assets/images/banner.jpg'
             }
         },
         computed: {

@@ -13,7 +13,7 @@
                         <router-link to="/Repairs">Repairs and HLF</router-link>
                     </li>
                     <li class="nav-item">
-                        <router-link to="/Volunteer">Volunteering</router-link>
+                        <router-link to="/Volunteer">Volunteering &amp; Donations</router-link>
                     </li>
                     <li class="nav-item">
                         <router-link to="/ContactUs">Contact us</router-link>

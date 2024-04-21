@@ -21,7 +21,7 @@
     export default {
         computed: {
             hlfLogo() {
-                return require("@/assets/images/heritagefundlogo.png");
+                return "src/assets/images/heritagefundlogo.png";
             }
         }
     }

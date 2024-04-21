@@ -73,7 +73,7 @@
         },
         computed: {
             tombUrl() {
-                return require("@/assets/images/worthington_bryce_tomb.jpg");
+                return "src/assets/images/worthington_bryce_tomb.jpg";
             }
         }
     }

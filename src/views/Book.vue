@@ -47,7 +47,7 @@
         },
         computed: {
             bookCover() {
-                return require("@/assets/images/bookCover.jpg");
+                return "src/assets/images/bookCover.jpg";
             },
         }
     }

@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col">
                 <ol style="line-height:200%;margin-left:3em">
-                    <li>Edmund Chown Taylor died Feb 2 1835, aged 7 years son of Thomas & Mary Taylor of Lympstone</li>
+                    <li>Edmund Chown Taylor died Feb 2 1835, aged 7 years son of Thomas & Ann Taylor of Lympstone</li>
                     <li>Thomas Taylor 1845 & Thomas Hoskins Taylor 1824</li>
                     <li>
                         Anna Taylor d. Nov 17 1882, wife of Henry Elson Taylor & Fred Taylor d. &hellip; 26 1885, aged 26 years
@@ -216,7 +216,7 @@
     export default {
         computed: {
             gravePlan() {
-                return require("@/assets/images/Grave_plan.png");
+                return "src/assets/images/Grave_plan.png";
             }
         }
     }

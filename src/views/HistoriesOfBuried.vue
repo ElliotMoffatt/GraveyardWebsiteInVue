@@ -311,7 +311,7 @@
         },
         computed: {
             gravePlan() {
-                return require("@/assets/images/Grave_plan.png");
+                return "src/assets/images/Grave_plan.png";
             }
         }
     }

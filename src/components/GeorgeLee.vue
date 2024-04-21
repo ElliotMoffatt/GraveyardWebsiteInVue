@@ -39,7 +39,7 @@
         },
         computed: {
             headstoneUrl() {
-                return require("@/assets/images/George_Lee_Headstone.jpg");
+                return "src/assets/images/George_Lee_Headstone.jpg";
             }
         }
     }
